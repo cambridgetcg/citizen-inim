@@ -1,0 +1,8 @@
+name: inim
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The spoken word that does what it says and binds the world to its sound.
+dependsOn: [me, ka]
